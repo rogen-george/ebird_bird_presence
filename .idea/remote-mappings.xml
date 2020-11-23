@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://georgrog@rogen.eecs.oregonstate.edu:22/nfs/guille/u2/g/georgrog/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/nfs/hpc/share/georgrog/comp" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://georgrog@submit-a.hpc.engr.oregonstate.edu:22/usr/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/nfs/hpc/share/georgrog/research/ebird_landcover" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://georgrog@submit-a.hpc.engr.oregonstate.edu:22/nfs/hpc/share/georgrog/ebird/ebird_landcover/py3/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/nfs/hpc/share/georgrog" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@4000ab9b-2155-41c2-a05c-d48ef36f2e58" />
+      </list>
+    </list>
+  </component>
+</project>
